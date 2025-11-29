@@ -3,7 +3,7 @@
 Welcome to my **Art portfolio**, a curated space where I showcase my creative journey through **pencil sketches, paintings, and digital artworks**.
 This site is fully responsive and designed to provide an immersive visual experience for visitors.
 
-👉 **Visit My Portfolio:** [https://yourusername.github.io/your-repo-name](https://sundarraj9641.github.io/ArtGallery/)
+👉 **Visit My Portfolio:** [https://sundarraj9641.github.io/ArtGallery](https://sundarraj9641.github.io/ArtGallery/)
 
 ---
 
